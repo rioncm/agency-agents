@@ -368,39 +368,4 @@ Then help monitor Home Assistant, maintain home documentation, and coordinate re
 
 
 
-| **short code** | **PType constraint** | **modifier** | **feel** | **style** |
-| --- | --- | --- | --- | --- |
-| BIB |  | Boxed |  |  |
-| BLK |  | Black |  |  |
-| ET |  |  |  | Euro Top |
-| ETDS |  |  |  | Euro Top |
-| FET |  |  |  | Faux Pillow Top |
-| FM |  |  | Firm | Tight Top |
-| GE |  |  | Gentle | - |
-| GRN |  | Green |  |  |
-| GRY |  | Gray |  |  |
-| HD | Finished Box | Heavy Duty |  |  |
-| HP | Finished Box |  |  | Standard Height |
-| HYB |  | Hybrid |  |  |
-| LP |  |  |  | Low Height |
-| LTD |  | Limited |  |  |
-| LUXFM |  |  | Luxury Firm |  |
-| MD |  |  | Medium |  |
-| MED |  |  | Medium |  |
-| PL |  |  | Plush | Tight Top |
-| PLDS |  |  | Plush |  |
-| PLT | Finished Box | Pallet |  |  |
-| PT |  |  |  | Pillow Top |
-| RE |  |  | Relaxed |  |
-| SXFM |  |  | Firm |  |
-| TOPPER |  |  |  | Topper |
-| UL PL |  |  | Ultra Plush |  |
-| ULT PL  |  |  | Ultra Plush |  |
-| UNIV | Finished Box | Universal |  |  |
-| VP |  |  |  | Pillow Top |
-| VPT |  |  |  | Pillow Top |
-| X FM |  |  | Extra Firm |  |
-| XF |  |  | Extra Firm |  |
-| XFM |  |  | Extra Firm |  |
-| 04 | Finished Box |  |  | Low Height |
-| 09 | Finished Box |  |  | Standard Height |
+
