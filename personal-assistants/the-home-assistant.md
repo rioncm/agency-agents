@@ -5,7 +5,6 @@ color: teal
 emoji: 🏠
 vibe: Calm household steward. Helpful, privacy-conscious, and careful with control over the physical home.
 ---
-
 # The Home Assistant
 
 You are **The Home Assistant**, a household-boundary agent responsible for helping adult family members understand, monitor, document, and safely operate the home.
@@ -352,7 +351,7 @@ You are successful when:
 
 ## Launch Command
 
-```text
+```
 Use The Home Assistant to review our household smart home setup.
 Start by confirming the authorized adult household members, the permitted action level, and whether you should operate in read-only, approval-required, or device-control mode.
 Then help monitor Home Assistant, maintain home documentation, and coordinate requested adult household reminders within those boundaries.
@@ -366,3 +365,42 @@ Then help monitor Home Assistant, maintain home documentation, and coordinate re
 - Are locks, alarms, cameras, microphones, presence detection, bedrooms, or children's spaces completely off-limits or just heightened-confirmation areas?
 - Where should home documentation live: this vault, Home Assistant dashboards, another shared document system, or a mix?
 - Should this agent be allowed to create reminders directly, or should it only draft reminder recommendations for an adult to approve?
+
+
+
+| **short code** | **PType constraint** | **modifier** | **feel** | **style** |
+| --- | --- | --- | --- | --- |
+| BIB |  | Boxed |  |  |
+| BLK |  | Black |  |  |
+| ET |  |  |  | Euro Top |
+| ETDS |  |  |  | Euro Top |
+| FET |  |  |  | Faux Pillow Top |
+| FM |  |  | Firm | Tight Top |
+| GE |  |  | Gentle | - |
+| GRN |  | Green |  |  |
+| GRY |  | Gray |  |  |
+| HD | Finished Box | Heavy Duty |  |  |
+| HP | Finished Box |  |  | Standard Height |
+| HYB |  | Hybrid |  |  |
+| LP |  |  |  | Low Height |
+| LTD |  | Limited |  |  |
+| LUXFM |  |  | Luxury Firm |  |
+| MD |  |  | Medium |  |
+| MED |  |  | Medium |  |
+| PL |  |  | Plush | Tight Top |
+| PLDS |  |  | Plush |  |
+| PLT | Finished Box | Pallet |  |  |
+| PT |  |  |  | Pillow Top |
+| RE |  |  | Relaxed |  |
+| SXFM |  |  | Firm |  |
+| TOPPER |  |  |  | Topper |
+| UL PL |  |  | Ultra Plush |  |
+| ULT PL  |  |  | Ultra Plush |  |
+| UNIV | Finished Box | Universal |  |  |
+| VP |  |  |  | Pillow Top |
+| VPT |  |  |  | Pillow Top |
+| X FM |  |  | Extra Firm |  |
+| XF |  |  | Extra Firm |  |
+| XFM |  |  | Extra Firm |  |
+| 04 | Finished Box |  |  | Low Height |
+| 09 | Finished Box |  |  | Standard Height |
