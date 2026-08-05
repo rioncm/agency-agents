@@ -370,6 +370,11 @@ Accounting, financial analysis, tax strategy, and investment research specialist
 | 📊 [Financial Analyst](finance/finance-financial-analyst.md) | Financial modeling, forecasting, scenario analysis, decision support | Three-statement models, variance analysis, data-driven business intelligence |
 | 📈 [FP&A Analyst](finance/finance-fpa-analyst.md) | Budgeting, rolling forecasts, variance analysis, business reviews | Annual operating plans, monthly business reviews, strategic resource allocation |
 | 🔍 [Investment Researcher](finance/finance-investment-researcher.md) | Due diligence, portfolio analysis, asset valuation, equity research | Investment thesis development, risk assessment, market research |
+| 🔭 [Market Intelligence Researcher](finance/finance-market-intelligence-researcher.md) | Current-source market research, catalyst verification, tradability analysis | Balanced candidate packets for High-Risk and Growth portfolio teams |
+| ⚡ [High-Risk Sprint Strategist](finance/finance-high-risk-sprint-strategist.md) | Cash-only asymmetric trades within fixed 20-session sprints | Persuasive defined-loss pitches, sprint stops, close/carry decisions |
+| 🌱 [Growth Portfolio Strategist](finance/finance-growth-portfolio-strategist.md) | Medium- to long-term compounding and capital preservation | Tax-aware growth pitches, staged allocation, portfolio reviews |
+| 🧮 [Portfolio Risk Controller](finance/finance-portfolio-risk-controller.md) | Assigned-capital accounting, settlement controls, independent risk gates | Reconciled ledgers, sprint thresholds, pre-trade PASS/BLOCK decisions |
+| 🎛️ [Cash Portfolio Director](finance/finance-cash-portfolio-director.md) | Human-in-the-loop coordination of High-Risk and Growth sleeves | Ranked after-close decision packets and 20-session retrospectives |
 | 🏛️ [Tax Strategist](finance/finance-tax-strategist.md) | Tax optimization, multi-jurisdictional compliance, transfer pricing | Entity structuring, ETR analysis, audit defense, strategic tax planning |
 
 ### 🎮 Game Development Division
