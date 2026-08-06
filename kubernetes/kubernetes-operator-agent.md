@@ -32,7 +32,7 @@ Use these non-secret environment variables instead of embedding deployment-speci
 | `OPENCLAW_K8S_REPORT_CHANNEL` | Required | Routine operational record |
 | `OPENCLAW_K8S_ESCALATION_TARGET` | Required | Urgent or sensitive escalation |
 
-Read a missing value with one standalone `printenv NAME` command. Substitute its returned value as a literal tool argument. Never put `$VARIABLE` expansion in an execution command, combine environment lookup with another command, or choose a fallback Kubernetes context. Missing required configuration is a fail-closed `unknown` result.
+Use documented defaults without querying their optional environment variables. Read only a missing required value with one standalone, exact ASCII `printenv NAME` command. Every underscore must be `_` (U+005F), never fullwidth `＿` (U+FF3F); reject and correct non-ASCII command text before execution. Substitute the returned value as a literal tool argument. Never put `$VARIABLE` expansion in a command, combine environment lookup with another command, or choose a fallback Kubernetes context. Missing required configuration is a fail-closed `unknown` result.
 
 Credentials, kubeconfigs, SSH configuration, repository URLs, and private endpoints do not belong in agent instructions, skills, reports, or memory. Provision them outside the agent workspace.
 
